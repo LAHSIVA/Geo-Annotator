@@ -1,1 +1,3 @@
 # Geo-Annotator
+
+This project is a Streamlit-based tool enabling three main functionalities: "Get Map", "Get Country Polygon", and "Get Polygon". Users can mark points on maps/images, define custom polygons for regions, and perform real-time hand tracking for dynamic annotation. The interface offers intuitive buttons to execute and stop each operation, ensuring smooth multitasking. It leverages subprocesses to run Python scripts concurrently, enhancing efficiency. The tool's dynamic UI updates provide real-time feedback, enhancing user experience and facilitating seamless interaction. Overall, it's a versatile tool for interactive mapping and region annotation tasks, designed for ease of use and efficiency.
